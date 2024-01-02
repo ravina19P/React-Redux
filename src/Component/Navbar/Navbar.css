@@ -1,0 +1,9 @@
+.custom-text {
+    font-family: 'Agbalumo', sans-serif;   
+}
+
+.icons-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
